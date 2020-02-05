@@ -1,0 +1,2 @@
+[0205/131415.497:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\TRAINI~1.02\AppData\Local\Temp\scoped_dir11740_1384069590\Crashpad: The system cannot find the file specified. (0x2)
+[0205/133923.502:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\TRAINI~1.02\AppData\Local\Temp\scoped_dir11532_762230842\Crashpad: The system cannot find the file specified. (0x2)
